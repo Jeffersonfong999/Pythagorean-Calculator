@@ -1,0 +1,45 @@
+html{
+    background-color: maroon
+}
+
+body{
+    width:600px;
+    background-color:white;
+    margin:0 auto;
+    padding: 75px;
+    border-radius: 25px;
+    font-family: 'Open Sans', sans-serif;
+    letter-spacing: .3px;
+}
+
+
+div.calculations{
+    border: solid;
+    border-width: 1px;
+    background-color:rgb(235, 235, 235);
+    padding:10px 50px ;
+    
+}
+
+.seperate{
+    border: none;
+}
+
+.calculate{
+    width:130px;
+    height:40px;
+    border:solid, 10px;
+    border-color:grey;
+    background-color:#808000;
+    color: white;
+    font-size: 18px;
+}
+
+h1,h2,h3 {
+    font-family: 'Maven Pro', sans-serif;    
+      }
+h1{
+    color:#808000;
+}
+
+  
